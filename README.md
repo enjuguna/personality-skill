@@ -37,7 +37,7 @@ cp -r personality-skill ~/.openclaw/workspace/skills/personality
 Or from ClawHub:
 
 ```bash
-openclaw skills install personality
+openclaw skills install personality-adapt
 ```
 
 ## Cron Jobs
